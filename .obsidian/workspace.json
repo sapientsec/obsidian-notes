@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "f9ea0e7cffc583ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba29b6bcc6811f44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2cb993513f2882b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe-CTFs/Kenobi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "185c0e1b8ba8e710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe-CTFs/Blue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c49413bf13d8d169",
+    "type": "split",
+    "children": [
+      {
+        "id": "1684bb55fffb7153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "319d8b7c05be8cd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a354ba4f5cb20293",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9dcb9fbb7dead126",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3dab3a2763380b8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3cd973232d4c3c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8c212d3325751e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TryHackMe-CTFs/Kenobi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9067e6870d1d851",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TryHackMe-CTFs/Kenobi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b3a4481f61a475a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf75e279ed7fde73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TryHackMe-CTFs/Kenobi.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "319d8b7c05be8cd9",
+  "lastOpenFiles": [
+    "obsidian-notes.7z",
+    "TryHackMe-CTFs/assets/Pasted image 20230501032930.png",
+    "TryHackMe-CTFs/assets/Pasted image 20230430232843.png",
+    "TryHackMe-CTFs/assets/Pasted image 20230430054913.png",
+    "TryHackMe-CTFs/Kenobi.md",
+    "TryHackMe-CTFs/Blue.md",
+    "TryHackMe-CTFs/assets/Pasted image 20230430212722.png",
+    "TryHackMe-CTFs/assets/Pasted image 20230430195736.png",
+    "TryHackMe-CTFs/README.md",
+    "README.md",
+    "TryHackMe-CTFs/The Greenholt Phish.md",
+    "TryHackMe-CTFs/assets/Pasted image 20230430040723.png",
+    "Issues.md",
+    "TryHackMe-CTFs/Pickle Rick CTF.md",
+    "HTB/Open Beta Season/Mailroom.md",
+    "tryhackme-ctfs/picklerick.md",
+    "HTB/Open Beta Season/assets/Pasted image 20230420024650.png",
+    "HTB/Open Beta Season/assets/Pasted image 20230420024717.png",
+    "HTB/Open Beta Season/assets/Pasted image 20230420024319.png",
+    "HTB/Open Beta Season/assets/Pasted image 20230420024521.png",
+    "HTB/Open Beta Season/assets",
+    "HTB/Open Beta Season",
+    "HTB"
+  ]
+}
