@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba29b6bcc6811f44",
+        "id": "8faecf6b598baa86",
         "type": "tabs",
         "children": [
           {
-            "id": "d2cb993513f2882b",
+            "id": "9d90878c6bb029db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TryHackMe-CTFs/Kenobi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "185c0e1b8ba8e710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe-CTFs/Blue.md",
-                "mode": "source",
-                "source": false
+                "file": "TryHackMe-CTFs/assets/Pasted image 20230507045451.png"
               }
             }
           }
@@ -76,6 +62,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "33a7646f954cc694",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe-CTFs/Kenobi.md",
+                "file": "TryHackMe-CTFs/assets/Pasted image 20230507045451.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe-CTFs/Kenobi.md",
+                "file": "TryHackMe-CTFs/assets/Pasted image 20230507045451.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe-CTFs/Kenobi.md"
+                "file": "TryHackMe-CTFs/assets/Pasted image 20230507045451.png"
               }
             }
           }
@@ -160,26 +154,33 @@
   },
   "active": "319d8b7c05be8cd9",
   "lastOpenFiles": [
-    "obsidian-notes.7z",
-    "TryHackMe-CTFs/assets/Pasted image 20230501032930.png",
-    "TryHackMe-CTFs/assets/Pasted image 20230430232843.png",
-    "TryHackMe-CTFs/assets/Pasted image 20230430054913.png",
+    "Issues.md",
+    "TryHackMe-CTFs/Obscure.md",
+    "Code/myhydra.py",
+    "TryHackMe-CTFs/assets/Pasted image 20230507063034.png",
+    "TryHackMe-CTFs/assets/Pasted image 20230507061549.png",
+    "TryHackMe-CTFs/assets/Pasted image 20230507060537.png",
+    "TryHackMe-CTFs/assets/Pasted image 20230507045451.png",
+    "TryHackMe-CTFs/Capture!.md",
+    "TryHackMe-CTFs/assets/Pasted image 20230507043855.png",
+    "TryHackMe-CTFs/assets/Pasted image 20230507042033.png",
+    "TryHackMe-CTFs/assets/Pasted image 20230507041403.png",
+    "TryHackMe-CTFs/assets/Pasted image 20230507041328.png",
+    "TryHackMe-CTFs/assets/Pasted image 20230507035803.png",
+    "TryHackMe-CTFs/assets/Pasted image 20230507035528.png",
     "TryHackMe-CTFs/Kenobi.md",
     "TryHackMe-CTFs/Blue.md",
-    "TryHackMe-CTFs/assets/Pasted image 20230430212722.png",
-    "TryHackMe-CTFs/assets/Pasted image 20230430195736.png",
-    "TryHackMe-CTFs/README.md",
+    "Other/Study.md",
+    "Code",
+    "Other/Assets",
+    "Other",
     "README.md",
+    "obsidian-notes.7z",
+    "TryHackMe-CTFs/README.md",
     "TryHackMe-CTFs/The Greenholt Phish.md",
-    "TryHackMe-CTFs/assets/Pasted image 20230430040723.png",
-    "Issues.md",
     "TryHackMe-CTFs/Pickle Rick CTF.md",
     "HTB/Open Beta Season/Mailroom.md",
     "tryhackme-ctfs/picklerick.md",
-    "HTB/Open Beta Season/assets/Pasted image 20230420024650.png",
-    "HTB/Open Beta Season/assets/Pasted image 20230420024717.png",
-    "HTB/Open Beta Season/assets/Pasted image 20230420024319.png",
-    "HTB/Open Beta Season/assets/Pasted image 20230420024521.png",
     "HTB/Open Beta Season/assets",
     "HTB/Open Beta Season",
     "HTB"
